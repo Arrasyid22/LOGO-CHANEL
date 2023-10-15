@@ -4266,6 +4266,10 @@ http://forevertv.me:8080/263117997354/213574458699/39997
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="DISCOVERY TURBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEU9-DD0I_s9A0vQ4QADH4uXCVPMGO9WxAPA&usqp=CAU" group-title="8. KNOWLEDGE", DISCOVERY TURBO
 http://forevertv.me:8080/263117997354/213574458699/8564
 
+#EXTINF:-1 tvg-id="GBAJ4900004ZY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="8. KNOWLEDGE" , ANIMAL PLANET Sub Id
+http://mykingtv.net:2082/amad1234/amad1234/5296
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="8. KNOWLEDGE",Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dunialain
